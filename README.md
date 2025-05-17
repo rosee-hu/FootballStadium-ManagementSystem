@@ -1,7 +1,11 @@
-# 🎟️ CIS 321 – Ticket Booking System
+# Ticket Booking System
 
 ## Project Overview
 A user-friendly stadium ticket booking system designed to improve customer service and reduce wait times. The system allows users to book tickets, reserve services (e.g., parking, food), and manage match-related data. Admins have full control over ticket and service management.
+
+## Languages & Technologies
+- **Programming Language:** Java  
+- **Database:** SQL  
 
 ## System Features
 - Admin and user roles
@@ -20,7 +24,7 @@ A user-friendly stadium ticket booking system designed to improve customer servi
 - **Payment**: card and price details
 
 ## Key Relationships
-- One user/admin can manage multiple tickets
-- Each ticket is linked to a payment and match
-- Matches are hosted in stadiums
-- Tickets can include optional services
+- One user/admin can manage multiple tickets  
+- Each ticket is linked to a payment and match  
+- Matches are hosted in stadiums  
+- Tickets can include optional services  
