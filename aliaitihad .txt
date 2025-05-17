@@ -1,0 +1,112 @@
+ Football Stadium Ticket System 
+ Team Id :  
+ Team Name :  
+
+  Date Of Establishment :  
+
+  Location :  
+
+ Football Stadium Ticket System 
+ Team Id :  1
+ Team Name :  al'ahli 
+
+  Date Of Establishment :  1937-01-10
+
+  Location :  jidat , maka
+
+ Football Stadium Ticket System 
+ Team Id :  3
+ Team Name :  alwahdat 
+
+  Date Of Establishment :  1945-01-10
+
+  Location :  maka
+
+ Football Stadium Ticket System 
+ Team Id :  4
+ Team Name :  aliaitihad 
+
+  Date Of Establishment :  1927-01-09
+
+  Location :  jidat , maka
+
+ Football Stadium Ticket System 
+ Team Id :  6
+ Team Name :  alkhalij 
+
+  Date Of Establishment :  1945-01-16
+
+  Location :  sihat , almintaqat alsharqia
+
+ Football Stadium Ticket System 
+ Team Id :  7
+ Team Name :  alaitifaq 
+
+  Date Of Establishment :  1945-01-10
+
+  Location :  aldamaam , almintaqat alsharqia
+
+ Football Stadium Ticket System 
+ Team Id :  8
+ Team Name :  alshabab 
+
+  Date Of Establishment :  1947-01-09
+
+  Location :  alriyad
+
+ Football Stadium Ticket System 
+ Team Id :  9
+ Team Name :  hajr 
+
+  Date Of Establishment :  1947-01-29
+
+  Location :   alhufuf , al'ahsa'
+
+ Football Stadium Ticket System 
+ Team Id :  10
+ Team Name :  altahami 
+
+  Date Of Establishment :  1948-01-02
+
+  Location :  jizan , mintaqat jazan
+
+ Football Stadium Ticket System 
+ Team Id :  11
+ Team Name :  alsafa
+
+  Date Of Establishment :  1948-01-16
+
+  Location :  safwaa , almintaqat alsharqia
+
+ Football Stadium Ticket System 
+ Team Id :  12
+ Team Name :  alraayid 
+
+  Date Of Establishment :  1954-01-02
+
+  Location :  buraydat , alqasim
+
+ Football Stadium Ticket System 
+ Team Id :  15
+ Team Name :  altaeawun 
+
+  Date Of Establishment :  1956-01-10
+
+  Location :  buraydat , alqasim
+
+ Football Stadium Ticket System 
+ Team Id :  16
+ Team Name :  alhilal 
+
+  Date Of Establishment :  1957-01-11
+
+  Location :  alriyad 
+
+ Football Stadium Ticket System 
+ Team Id :  18
+ Team Name :  sdfsdf
+
+  Date Of Establishment :  null
+
+  Location :  dsdfdf
+

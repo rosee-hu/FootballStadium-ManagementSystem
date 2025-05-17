@@ -1,0 +1,8 @@
+ Football Stadium Ticket System 
+ Team Id :  8
+ Team Name :  alshab
+
+  Date Of Establishment :  
+
+  Location :  alriyad
+
